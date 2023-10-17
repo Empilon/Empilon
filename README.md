@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! Here, you'll find a collection of projects and repositories that reflect my interests and skills. I'm passionate about programming, and I enjoy discovering new languages.
 If you find something interesting or useful here, feel free to explore, contribute, or simply get in touch.
 
-## About Me
+## $~: whoami
+
 
 - 😄 I'm Michael Schwab
 - 🌍 I'm from Holland
