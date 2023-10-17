@@ -29,7 +29,7 @@ If you find something interesting or useful here, feel free to explore, contribu
 
 ## Contact Me
 
-- 💬 Feel free to connect with me on [Twitter](https://www.linkedin.com/in/schwabm/).
+- 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/schwabm/).
 
 ## Thank You for Visiting
 
